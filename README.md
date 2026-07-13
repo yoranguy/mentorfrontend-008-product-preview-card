@@ -44,7 +44,7 @@ Mobile Screenshot:
 ### Links
  
 - Solution URL: [GitHub](https://github.com/yoranguy/mentorfrontend-008-product-preview-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://mentorfrontend-product-preview-card-n1udoczp9.vercel.app/)
 
 ## My process
 
