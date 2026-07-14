@@ -15,7 +15,7 @@ function App() {
 
   const {product, isLoading, error}: {product: ProductCard[], isLoading: boolean, error: null} = useFetch();
 
-  const test = true;
+  const test = false;
 
   return (
     <>
