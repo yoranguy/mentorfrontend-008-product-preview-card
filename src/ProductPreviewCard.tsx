@@ -82,7 +82,7 @@ function ProductPreviewCard(product: ProductCard) {
                     />
                 </div>
 
-                <div className="bg-[hsl(1,0%,100%)] flex flex-col flex-wrap gap-6.5 py-8 px-6 w-87.5 sm:w-75 rounded-bl-md rounded-br-md sm:rounded-br-md sm:rounded-tr-md sm: rounded-bl-none">
+                <div className="bg-[hsl(1,0%,100%)] flex flex-col flex-wrap gap-6.5 py-8 px-6 w-87.5 sm:w-75 rounded-bl-md rounded-br-md sm:rounded-br-md sm:rounded-tr-md sm:rounded-bl-none">
                     <div className="font-montserrat uppercase text-[hsl(228,12%,48%)] text-xs tracking-[0.3rem] font-medium">
                         Perfume
                     </div>
@@ -117,9 +117,7 @@ function ProductPreviewCard(product: ProductCard) {
 
 export function ProductPreviewCardStatic() {
     
-
     const [addToCartNotification, setAddToCartNotification] = useState(false);
-    
 
     const handleClick = () => {
         // alert("This has been added to the cart.");
